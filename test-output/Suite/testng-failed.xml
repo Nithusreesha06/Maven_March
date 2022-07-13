@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test thread-count="5" name="Test(failed)">
+    <parameter name="password" value="I4A4Y9"/>
+    <parameter name="username" value="Nithya06sreesha"/>
+    <classes>
+      <class name="com.testng.concepts.Parameterized_Concept">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.testng.concepts.Parameterized_Concept -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

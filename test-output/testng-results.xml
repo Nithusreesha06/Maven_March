@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="8" passed="8">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="45" started-at="2022-07-12T17:10:22 IST" finished-at="2022-07-12T17:10:22 IST">
+    <groups>
+      <group name="movies">
+        <method signature="Group_Concepts.Amazon_Prime()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Amazon_Prime" class="com.testng.concepts.Group_Concepts"/>
+        <method signature="Group_Concepts.Netflix()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Netflix" class="com.testng.concepts.Group_Concepts"/>
+      </group> <!-- movies -->
+      <group name="vehicles">
+        <method signature="Group_Concepts.Bike()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Bike" class="com.testng.concepts.Group_Concepts"/>
+        <method signature="Group_Concepts.Car()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Car" class="com.testng.concepts.Group_Concepts"/>
+        <method signature="Group_Concepts.Cycle()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Cycle" class="com.testng.concepts.Group_Concepts"/>
+      </group> <!-- vehicles -->
+      <group name="women">
+        <method signature="Group_Concepts.Kurti()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Kurti" class="com.testng.concepts.Group_Concepts"/>
+        <method signature="Group_Concepts.Lehenga()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Lehenga" class="com.testng.concepts.Group_Concepts"/>
+        <method signature="Group_Concepts.Saree()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Saree" class="com.testng.concepts.Group_Concepts"/>
+      </group> <!-- women -->
+    </groups>
+    <test name="Default test" duration-ms="45" started-at="2022-07-12T17:10:22 IST" finished-at="2022-07-12T17:10:22 IST">
+      <class name="com.testng.concepts.Group_Concepts">
+        <test-method status="PASS" signature="Amazon_Prime()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Amazon_Prime" duration-ms="6" started-at="2022-07-12T17:10:22 IST" finished-at="2022-07-12T17:10:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Amazon_Prime -->
+        <test-method status="PASS" signature="Bike()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Bike" duration-ms="1" started-at="2022-07-12T17:10:22 IST" finished-at="2022-07-12T17:10:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Bike -->
+        <test-method status="PASS" signature="Car()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Car" duration-ms="1" started-at="2022-07-12T17:10:22 IST" finished-at="2022-07-12T17:10:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Car -->
+        <test-method status="PASS" signature="Cycle()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Cycle" duration-ms="1" started-at="2022-07-12T17:10:22 IST" finished-at="2022-07-12T17:10:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Cycle -->
+        <test-method status="PASS" signature="Kurti()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Kurti" duration-ms="1" started-at="2022-07-12T17:10:22 IST" finished-at="2022-07-12T17:10:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Kurti -->
+        <test-method status="PASS" signature="Lehenga()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Lehenga" duration-ms="1" started-at="2022-07-12T17:10:22 IST" finished-at="2022-07-12T17:10:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Lehenga -->
+        <test-method status="PASS" signature="Netflix()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Netflix" duration-ms="1" started-at="2022-07-12T17:10:22 IST" finished-at="2022-07-12T17:10:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Netflix -->
+        <test-method status="PASS" signature="Saree()[pri:0, instance:com.testng.concepts.Group_Concepts@33c7e1bb]" name="Saree" duration-ms="0" started-at="2022-07-12T17:10:22 IST" finished-at="2022-07-12T17:10:22 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Saree -->
+      </class> <!-- com.testng.concepts.Group_Concepts -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+ <test thread-count="5" name="Test">
+ 
+ <parameter name="username" value="Nithyavimal"></parameter>
+ 
+ <parameter name="password" value="123456"></parameter>
+ 
+ <parameter name="username" value="Nithya06sreesha"></parameter>
+ 
+ <parameter name="password" value="I4A4Y9"></parameter>
+ <classes>
+ 
+ <class name="com.testng.concepts.Parameterized_Concept"></class>
+ 
+ </classes>
+ </test> <!-- Test -->
+ </suite> <!-- Suite -->
